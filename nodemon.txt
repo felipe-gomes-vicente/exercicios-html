@@ -1,0 +1,11 @@
+Instalar nodemon comando recente
+
+
+npm install -g nodemon
+
+  # ou usando yarn
+
+yarn global add nodemon
+
+
+  # No arquivo do projeto em package.json onde esta utilizar apenas nodemon ou nodemon server.js    
