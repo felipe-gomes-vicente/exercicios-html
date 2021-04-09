@@ -1,4 +1,5 @@
-const gulp = requite('gulp')
+const gulp = require('gulp')
+
 
 function appHTML(cb) {
   return cb()
@@ -17,8 +18,8 @@ function appIMG(cb) {
 }
 
 module.exports = {
-  appHTML,
-  appCSS,
-  appJS,
-  appIMG
+    appHTML,
+    appCSS,
+    appJS,
+    appIMG
 }
