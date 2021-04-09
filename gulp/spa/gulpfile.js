@@ -10,6 +10,6 @@ module.exports.default = series(
     series(appHTML, appCSS, appJS, appIMG),
     series(depsCSS, depsFonts)
   ),
-  servidor
+  servidor,
   monitorarArquivos
 )
