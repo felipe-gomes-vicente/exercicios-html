@@ -1,0 +1,16 @@
+Para registro, tive uma dor de cabeça tentando identificar o erro que gerava 
+mesmo instalando a aversão do node-sass 4.12.0.
+
+O problema é que a versão node-sass 4.12.0, não é compatível com o node.js 
+que tinha instalado na máquina. então baixei o node-sass 4.14.0 e passou a funcionar corretamente.
+
+Caso esteja ocorrendo erro ao dar o npm start, segue os passos abaixos.
+
+1º Terminal -> node --version
+
+2º Acesse -> https://www.npmjs.com/package/node-sass
+
+3º Verifique a versão do node-sass compatível com o node.js instalado.
+
+4º Terminal -> npm i node-sass@ +versão compatível.
+
