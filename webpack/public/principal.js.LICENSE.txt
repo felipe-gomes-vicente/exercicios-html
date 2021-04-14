@@ -1,0 +1,49 @@
+/*! CommonJS bailout: module.exports is used directly at 1:0-14 */
+
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! exports [not provided] [no usage info] */
+
+/*! namespace exports */
+
+/*! other exports [not provided] [no usage info] */
+
+/*! runtime requirements: __webpack_require__ */
+
+/*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_require__.r, __webpack_exports__, __webpack_require__.d, __webpack_require__.* */
+
+/*! runtime requirements: __webpack_require__, __webpack_require__.r, __webpack_exports__, __webpack_require__.* */
+
+/*! runtime requirements: __webpack_require__.r, __webpack_exports__, __webpack_require__.* */
+
+/*! runtime requirements: module */
+
+/*! unknown exports (runtime-defined) */
+
+/*!***********************!*\
+  !*** ./src/pessoa.js ***!
+  \***********************/
+
+/*!**************************!*\
+  !*** ./src/principal.js ***!
+  \**************************/
+
+/*!*****************************!*\
+  !*** ./src/assets/index.js ***!
+  \*****************************/
+
+/*!********************************!*\
+  !*** ./src/modulos/moduloA.js ***!
+  \********************************/
+
+/*!********************************!*\
+  !*** ./src/modulos/moduloB.js ***!
+  \********************************/
+
+/*!***********************************!*\
+  !*** ./src/assets/css/estilo.css ***!
+  \***********************************/
+
+/*!************************************!*\
+  !*** ./src/assets/scss/index.scss ***!
+  \************************************/
