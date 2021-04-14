@@ -1,0 +1,2 @@
+Ir em package.json alterar o script de "scripts" em "start" da seguinte forma:
+"start": "webpack serve --open",
