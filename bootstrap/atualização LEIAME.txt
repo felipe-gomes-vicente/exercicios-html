@@ -1,0 +1,24 @@
+Projeto galeria
+Fala pessoal! Tranquilo?
+
+Ocorreram algumas atualizações nas dependências e alguns colegas relataram problemas após instalá-las ao final da aula Opções de Instalação. Então, para solucionar esse problema, você deve fazer algumas atualizações seguindo o passo-a-passo:
+
+Abra o seu projeto
+
+Apague a pasta node_modules e o arquivo package-lock.json para garantir que não ficará nenhuma referência antiga
+
+No arquivo package.json substitua as linhas referentes às dependências do node-sass, sass-loader, webpack por:
+
+"node-sass": "4.14.1",
+"sass-loader": "^7.3.1",
+"webpack": "4.4.0",
+E por fim, no terminal, dentro da pasta do projeto, rode o comando:
+
+npm i
+Feito isso, os erros irão desaparecer e você pode dar continuidade ao projeto normalmente.
+
+Bons estudos!
+
+Tela cheia
+Ir para a aula anterior338. Opções de Instalação
+Ir para a próxima aula340. 
