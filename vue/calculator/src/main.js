@@ -12,7 +12,7 @@ new Vue({
 //   }
 // })
 
-/** Outra forma */
+/** Outra forma */ /* start projeto npm run serve*/
 // new Vue({
 //   render(createElement) {
 //     return createElement(App)
